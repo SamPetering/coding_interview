@@ -1,0 +1,6 @@
+C:\toolbox\coding_interview\FindIntPairBySum\bin\Debug\FindIntPairBySum.exe.config
+C:\toolbox\coding_interview\FindIntPairBySum\bin\Debug\FindIntPairBySum.exe
+C:\toolbox\coding_interview\FindIntPairBySum\bin\Debug\FindIntPairBySum.pdb
+C:\toolbox\coding_interview\FindIntPairBySum\obj\Debug\FindIntPairBySum.csprojResolveAssemblyReference.cache
+C:\toolbox\coding_interview\FindIntPairBySum\obj\Debug\FindIntPairBySum.exe
+C:\toolbox\coding_interview\FindIntPairBySum\obj\Debug\FindIntPairBySum.pdb
