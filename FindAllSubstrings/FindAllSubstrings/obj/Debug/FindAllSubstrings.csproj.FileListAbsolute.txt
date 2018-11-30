@@ -1,0 +1,9 @@
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\FindAllSubstrings\bin\Debug\FindAllSubstrings.exe.config
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\FindAllSubstrings\bin\Debug\FindAllSubstrings.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\FindAllSubstrings\bin\Debug\FindAllSubstrings.pdb
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\FindAllSubstrings\obj\Debug\FindAllSubstrings.csprojResolveAssemblyReference.cache
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\FindAllSubstrings\obj\Debug\FindAllSubstrings.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\FindAllSubstrings\obj\Debug\FindAllSubstrings.pdb
+C:\Toolbox\coding_interview\FindAllSubstrings\FindAllSubstrings\bin\Debug\FindAllSubstrings.exe.config
+C:\Toolbox\coding_interview\FindAllSubstrings\FindAllSubstrings\obj\Debug\FindAllSubstrings.exe
+C:\Toolbox\coding_interview\FindAllSubstrings\FindAllSubstrings\obj\Debug\FindAllSubstrings.pdb
