@@ -1,0 +1,2 @@
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Toolbox\coding_interview\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
