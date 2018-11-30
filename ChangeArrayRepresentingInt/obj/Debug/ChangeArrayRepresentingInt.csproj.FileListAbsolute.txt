@@ -1,0 +1,6 @@
+C:\toolbox\coding_interview\ChangeArrayRepresentingInt\bin\Debug\ChangeArrayRepresentingInt.exe.config
+C:\toolbox\coding_interview\ChangeArrayRepresentingInt\bin\Debug\ChangeArrayRepresentingInt.exe
+C:\toolbox\coding_interview\ChangeArrayRepresentingInt\bin\Debug\ChangeArrayRepresentingInt.pdb
+C:\toolbox\coding_interview\ChangeArrayRepresentingInt\obj\Debug\ChangeArrayRepresentingInt.csprojResolveAssemblyReference.cache
+C:\toolbox\coding_interview\ChangeArrayRepresentingInt\obj\Debug\ChangeArrayRepresentingInt.exe
+C:\toolbox\coding_interview\ChangeArrayRepresentingInt\obj\Debug\ChangeArrayRepresentingInt.pdb
