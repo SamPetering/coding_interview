@@ -1,0 +1,9 @@
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\PalindromeCheck\bin\Debug\PalindromeCheck.exe.config
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\PalindromeCheck\bin\Debug\PalindromeCheck.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\PalindromeCheck\bin\Debug\PalindromeCheck.pdb
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\PalindromeCheck\obj\Debug\PalindromeCheck.csprojResolveAssemblyReference.cache
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\PalindromeCheck\obj\Debug\PalindromeCheck.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\PalindromeCheck\obj\Debug\PalindromeCheck.pdb
+C:\Toolbox\coding_interview\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.exe.config
+C:\Toolbox\coding_interview\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.exe
+C:\Toolbox\coding_interview\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.pdb
