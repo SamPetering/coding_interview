@@ -1,0 +1,6 @@
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\CountCharacterInString\bin\Debug\CountCharacterInString.exe.config
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\CountCharacterInString\bin\Debug\CountCharacterInString.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\CountCharacterInString\bin\Debug\CountCharacterInString.pdb
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\CountCharacterInString\obj\Debug\CountCharacterInString.csprojResolveAssemblyReference.cache
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\CountCharacterInString\obj\Debug\CountCharacterInString.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\CountCharacterInString\obj\Debug\CountCharacterInString.pdb
