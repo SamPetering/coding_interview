@@ -1,0 +1,6 @@
+C:\toolbox\coding_interview\LinkedList\bin\Debug\LinkedList.exe.config
+C:\toolbox\coding_interview\LinkedList\bin\Debug\LinkedList.exe
+C:\toolbox\coding_interview\LinkedList\bin\Debug\LinkedList.pdb
+C:\toolbox\coding_interview\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\toolbox\coding_interview\LinkedList\obj\Debug\LinkedList.exe
+C:\toolbox\coding_interview\LinkedList\obj\Debug\LinkedList.pdb
