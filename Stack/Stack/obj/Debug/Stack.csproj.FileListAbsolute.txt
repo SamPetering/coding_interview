@@ -1,0 +1,9 @@
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Stack\bin\Debug\Stack.exe.config
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Stack\bin\Debug\Stack.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Stack\bin\Debug\Stack.pdb
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Stack\obj\Debug\Stack.exe
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Stack\obj\Debug\Stack.pdb
+C:\Toolbox\coding_interview\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Toolbox\coding_interview\Stack\Stack\obj\Debug\Stack.exe
+C:\Toolbox\coding_interview\Stack\Stack\obj\Debug\Stack.pdb
