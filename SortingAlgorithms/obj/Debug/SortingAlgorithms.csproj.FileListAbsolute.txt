@@ -1,0 +1,6 @@
+C:\toolbox\coding_interview\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\toolbox\coding_interview\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\toolbox\coding_interview\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\toolbox\coding_interview\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\toolbox\coding_interview\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\toolbox\coding_interview\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
