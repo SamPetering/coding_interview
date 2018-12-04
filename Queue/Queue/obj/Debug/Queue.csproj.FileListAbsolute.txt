@@ -1,0 +1,2 @@
+C:\Users\s0p00rz\AppData\Local\Temporary Projects\Queue\bin\Debug\Queue.exe.config
+C:\Toolbox\coding_interview\Queue\Queue\bin\Debug\Queue.exe.config
