@@ -1,0 +1,6 @@
+C:\toolbox\coding_interview\CountOfSetsEqualToSum\bin\Debug\CountOfSetsEqualToSum.exe.config
+C:\toolbox\coding_interview\CountOfSetsEqualToSum\bin\Debug\CountOfSetsEqualToSum.exe
+C:\toolbox\coding_interview\CountOfSetsEqualToSum\bin\Debug\CountOfSetsEqualToSum.pdb
+C:\toolbox\coding_interview\CountOfSetsEqualToSum\obj\Debug\CountOfSetsEqualToSum.csprojResolveAssemblyReference.cache
+C:\toolbox\coding_interview\CountOfSetsEqualToSum\obj\Debug\CountOfSetsEqualToSum.exe
+C:\toolbox\coding_interview\CountOfSetsEqualToSum\obj\Debug\CountOfSetsEqualToSum.pdb
