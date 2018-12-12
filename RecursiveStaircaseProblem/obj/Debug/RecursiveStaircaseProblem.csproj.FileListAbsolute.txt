@@ -1,0 +1,6 @@
+c:\users\sam petering\documents\visual studio 2015\Projects\RecursiveStaircaseProblem\bin\Debug\RecursiveStaircaseProblem.exe.config
+c:\users\sam petering\documents\visual studio 2015\Projects\RecursiveStaircaseProblem\obj\Debug\RecursiveStaircaseProblem.csprojResolveAssemblyReference.cache
+c:\users\sam petering\documents\visual studio 2015\Projects\RecursiveStaircaseProblem\bin\Debug\RecursiveStaircaseProblem.exe
+c:\users\sam petering\documents\visual studio 2015\Projects\RecursiveStaircaseProblem\bin\Debug\RecursiveStaircaseProblem.pdb
+c:\users\sam petering\documents\visual studio 2015\Projects\RecursiveStaircaseProblem\obj\Debug\RecursiveStaircaseProblem.exe
+c:\users\sam petering\documents\visual studio 2015\Projects\RecursiveStaircaseProblem\obj\Debug\RecursiveStaircaseProblem.pdb
